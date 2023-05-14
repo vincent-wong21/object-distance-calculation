@@ -1,0 +1,81 @@
+class_name,actual_height
+person,1600
+bicycle,660.4
+car,1650
+motorbike,1143
+aeroplane,19265
+bus,4191
+train,4025
+truck,4110
+boat,4267
+traffic light,2200
+fire hydrant,1200
+stop sign,1500
+parking meter,1219.2
+bench,482.6
+bird,444.5
+cat,235
+dog,625
+horse,1550
+sheep,1170
+cow,1700
+elephant,3000
+bear,1500
+zebra,1250
+giraffe,5100
+backpack,438.15
+umbrella,628.65
+handbag,203
+tie,1447.8
+suitcase,700
+frisbee,230
+skis,1700
+snowboard,1500
+sports ball,230
+kite,650
+baseball bat,736.6
+baseball glove,304.8
+skateboard,190.5
+surfboard,203.2
+tennis racket,711.2
+bottle,290
+wine glass,270
+cup,93
+fork,200
+knife,210
+spoon,200
+bowl,120
+banana,180
+apple,60
+sandwich,30
+orange,50
+broccoli,762
+carrot,177.8
+hot dog,150
+pizza,360
+donut,900
+cake,250
+chair,1100
+sofa,810
+pottedplant,1000
+bed,1000
+diningtable,760
+toilet,781
+tvmonitor,500
+laptop,250
+mouse,120
+remote,160
+keyboard,180
+cell phone,160
+microwave,280
+oven,270
+toaster,208
+sink,820
+refrigerator,1700
+book,220
+clock,300
+vase,450
+scissors,210
+teddy bear,800
+hair drier,150
+toothbrush,140
